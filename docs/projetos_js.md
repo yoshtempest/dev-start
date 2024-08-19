@@ -48,4 +48,10 @@
 
 ## Projeto 12 - Aplicativo de sala de aula aprimorado
 
+## Projeto 13 - Calculo da média
+
+## Projeto 14 - Aplicativo de sala de aula
+
+## Projeto 15 - Lista de compras
+
 ## [Voltar](../README.md)

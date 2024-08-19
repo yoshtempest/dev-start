@@ -41,14 +41,19 @@
     - 2- Atribua o novo valor usando o sinal de =
   - Lembre-se de retornar a matriz inteira no final da função em vez de retornar somente o item que foi alterado.
 
-- Propriedade .length:
-
-  - O .length é uma propriedade que retorna o comprimento (número de itens) da matriz.
-  - Em matrizes vazias o .length retorna 0.
-
 - Último item da matriz:
 
   - Para encontrar a posição (indice) do último item de uma matriz, use a seguinte expressão: matriz.length - 1.
   - Para acessar o último item de uma matriz, você deve escrever: matriz[matriz.length - 1].
+
+- Matriz de strings:
+
+  - As matrizes de strings são aquelas cujos itens são dados do tipo string.
+  - O funcionamento desse tipo de matriz é semelhante ao das matrizes de números.
+
+- Métodos de matriz:
+
+  - Os métodos .forEach(), .includes(), .join(), e .map() podem ser utilizados em matrizes de strings.
+  - O .map() pode ser utilizado para fazer transformações nas strings contidas na matriz. Por exemplo, converter todas as strings para letras minúsculas.
 
 ## [Voltar](../README.md)

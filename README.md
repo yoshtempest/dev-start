@@ -7,7 +7,7 @@
 - Para fazer uma quebra de linha em:
   - JavaScript usamos \n
   - Css usamos `mensagem`
-  - Html usamos <br>
+  - Html usamos ``<br>``
 
 ### [Clique aqui para ver informações sobre parâmetros](docs/parametros.md)
 
@@ -45,7 +45,18 @@
 
 ### [clique aqui para ver informações sobre matrizes](docs/matrizes.md)
 
-- O que é iteração
+- O que é iteração:
 
   - A iteração nos permite realizar uma tarefa repetitiva para cada item de uma matriz, sem a necessidade de escrever o código várias vezes.
   - Uma tarefa comum que podemos realizar com iteração é calcular os itens de uma matriz.
+
+- Redução por multiplicação:
+
+  - Na redução de matriz por multiplicação, usamos um valor inicial igual a 1.
+
+- Manipulação de matriz de string:
+
+  - String[0] retorna o primeiro caractere de uma string.
+  - string[string.length - 1] retorna o último caractere de uma string.
+
+
